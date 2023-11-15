@@ -9,6 +9,6 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-unused-vars": ["error",{"argsIgnorePatterns":"next"}]
+        "no-unused-vars": ["error",{"argsIgnorePattern":"next"}]
     }
 }
